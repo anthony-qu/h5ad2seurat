@@ -1,0 +1,1 @@
+Takes in the path to .h5ad file and output seurat object as .rds in the same folder, while storing the metadata from adata.obs.
